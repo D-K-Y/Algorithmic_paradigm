@@ -12,5 +12,7 @@ add_subdirectory (Algorithms)
 # Add source to this project's executable.
 add_executable ( main main.cpp)
 
-target_link_libraries(main BackTracking BranchAndBound BruteForce DivideAndCoquer DynamicProgramming GreedyApproach PruneAndSearch)
+#target_link_libraries(main BackTracking BranchAndBound BruteForce DivideAndCoquer DynamicProgramming GreedyApproach PruneAndSearch)
+target_link_libraries(main BinarySearch)
+
 # TODO: Add tests and install targets if needed.
