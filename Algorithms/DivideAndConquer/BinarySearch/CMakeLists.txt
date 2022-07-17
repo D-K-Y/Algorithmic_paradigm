@@ -1,0 +1,2 @@
+add_library(BinarySearch src/binarySearch.cpp)
+target_include_directories(BinarySearch PUBLIC include)
