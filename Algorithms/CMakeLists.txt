@@ -1,0 +1,7 @@
+add_subdirectory(BackTracking)
+add_subdirectory(BranchAndBound)
+add_subdirectory(BruteForce)
+add_subdirectory(DivideAndConquer)
+add_subdirectory(DynamicProgramming)
+add_subdirectory(GreedyApproach)
+add_subdirectory(PruneAndSearch)
