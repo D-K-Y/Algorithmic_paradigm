@@ -1,4 +1,4 @@
-<h1> Divide and COnquer </h1>
+<h1> Divide and Conquer </h1>
 
 ## Description
 Inplements startegy of dividing a problem into sub problems of the same kind
@@ -8,6 +8,8 @@ and then combining the results.
 Examples Covered 
 
 * Binary Search
+** Uses Divide and Conquer approach to 
+
 * Merge Sort
 * Quick Sort
 * Strassen Multiplication Algorithm
