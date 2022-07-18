@@ -7,9 +7,8 @@ and then combining the results.
 
 Examples Covered 
 
-* Binary Search
-** Uses Divide and Conquer approach to 
-
-* Merge Sort
-* Quick Sort
-* Strassen Multiplication Algorithm
+- [Binary Search](/Algorithms/DivideAndConquer/BinarySearch/README.md)
+  - Uses Divide and Conquer approach to 
+- [Merge Sort]()
+- [Quick Sort]()
+- [Strassen Multiplication Algorithm]()
