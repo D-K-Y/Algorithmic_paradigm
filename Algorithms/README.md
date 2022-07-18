@@ -6,7 +6,7 @@
 - [BackTracking]()
 - [Branch & Bound]()
 - [BruteForce]()
-- [Divide & Conquer](/DivideAndConquer/README.md)
+- [Divide & Conquer](/Algorithms/DivideAndConquer/README.md)
 - [Dynamic Programming]()
 - [Greedy]()
 - [Prune & Search]()
