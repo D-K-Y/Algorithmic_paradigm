@@ -3,9 +3,13 @@
 
 <h2> Description </h2>
 
-I have collected all the algorithmic design techniques with proer explanation
-
-Make sure You read all thereadme Files first.
+- [BackTracking]()
+- [Branch & Bound]()
+- [BruteForce]()
+- [Divide & Conquer](/DivideAndConquer/README.md)
+- [Dynamic Programming]()
+- [Greedy]()
+- [Prune & Search]()
 
 
 
