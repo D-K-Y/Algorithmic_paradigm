@@ -1,6 +1,6 @@
 DS & ALGO
 
-# [DS]()
+# [DS](/DataSructures/README.md)
 
-# [ALGO]()
+# [ALGO](/Algorithms/README.md)
 
