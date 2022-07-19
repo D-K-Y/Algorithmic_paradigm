@@ -31,6 +31,40 @@ Index = A[0]%10
 |	--- |	--- |	---	| --- |	--- |	--- |	---	| --- |---|---|
 |-1|21|-1|-1|-1|-1|-1|-1|-1|-1|
 
+Step 2 :
+```
+Index = A[1]%10
+// A[1] is 3 
+// Index = 3 HashTable[3] = 3
+Similarly we can calculate other values 
+For 4 it will be index 4 
+For 500 it will be index 0
+Fo 24 it will be index 4
+For 20 it will be index 0 
+For 19 it will be index 9
+For 31 it will be index 1
+For 112 it will be index  2
+For 111 it will be index 1
+```
+When you will start inserting above values you will not have any issues till iserting **500**
+
+but after **500** you have **24** whose index is **4** which is already Taken by value **4**
+
+We call this Scenario as **Collissions** and **Collissions** are the main parameter in deciding
+
+how god your **Hash Function** is.
+
+> Ideal **Hash Function** should have **Zero** Collisons (Which seems to be unreachable goal)
+
+##### Dealing with Collisons 
+
+**Chaining**
+**Open Addressing**
+- Linear Probing  **Advantage Caching , Disadvantage Clustering**
+- Quadratic Probing  **No clusters But bad Caching** 
+- Double Hashing / Rehashing ****
+
+
 
 ## Complexity
 
